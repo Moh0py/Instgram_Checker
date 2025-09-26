@@ -1,0 +1,19 @@
+2025-09-26 17:18:47 - INFO - No proxy - using direct connection
+2025-09-26 17:18:47 - INFO - Session setup completed with dynamic User-Agent
+2025-09-26 17:18:47 - INFO - Checking gjghjghjyu
+2025-09-26 17:18:47 - INFO - Checking ghju7u76g
+2025-09-26 17:18:47 - INFO - Checking hjghjytuuy65
+2025-09-26 17:18:50 - WARNING - API blocked for ghju7u76g: 403
+2025-09-26 17:18:50 - WARNING - API blocked for hjghjytuuy65: 403
+2025-09-26 17:18:54 - INFO - Checking jujhj5464532222
+2025-09-26 17:18:55 - WARNING - CSRF token missing for jujhj5464532222, attempt 1
+2025-09-26 17:18:55 - WARNING - CSRF token missing for hjghjytuuy65, attempt 2
+2025-09-26 17:18:56 - WARNING - CSRF token missing for ghju7u76g, attempt 2
+2025-09-26 17:18:56 - WARNING - API blocked for jujhj5464532222: 403
+2025-09-26 17:18:56 - WARNING - API blocked for hjghjytuuy65: 403
+2025-09-26 17:18:56 - WARNING - API blocked for ghju7u76g: 403
+2025-09-26 17:19:01 - WARNING - CSRF token missing for jujhj5464532222, attempt 2
+2025-09-26 17:19:01 - WARNING - CSRF token missing for hjghjytuuy65, attempt 3
+2025-09-26 17:19:02 - WARNING - API blocked for jujhj5464532222: 403
+2025-09-26 17:19:03 - WARNING - CSRF token missing for ghju7u76g, attempt 3
+2025-09-26 17:19:07 - WARNING - CSRF token missing for jujhj5464532222, attempt 3

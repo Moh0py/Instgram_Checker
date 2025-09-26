@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-26T17:19:09.576678",
+  "total_checked": 4,
+  "available_count": 1,
+  "unavailable_count": 3,
+  "error_count": 0,
+  "available_usernames": [
+    "gjghjghjyu"
+  ],
+  "unavailable_usernames": [
+    "hjghjytuuy65",
+    "ghju7u76g",
+    "jujhj5464532222"
+  ],
+  "error_usernames": [],
+  "configuration": {
+    "proxy_used": false,
+    "max_workers": 3,
+    "min_delay": 2.0,
+    "max_delay": 5.0,
+    "verbose": false
+  }
+}
